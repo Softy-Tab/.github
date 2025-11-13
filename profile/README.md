@@ -1,16 +1,18 @@
 # Seja bem-vindo a Softy-Tab
 
-## Membros:
+## Membros e Funções:
 
-* Maxsuel Bruno <https://github.com/MaxsuelBruno>
-* Ana Ellyca <https://github.com/AnnaEllycaVitoria>
-* Amanda Alves <https://github.com/Amandabr922>
-* Rute Nunes <https://github.com/Rute-nunes>
-* Miguel Ângelo <https://github.com/Miguel-Angelo012>
+* Maxsuel Bruno: responsável pela estrutura da tela de login. <https://github.com/MaxsuelBruno>
+* Ana Ellyca: responsável pelo jogo de memória e slides para apresentação. <https://github.com/AnnaEllycaVitoria>
+* Amanda Alves: responsável pela agenda de contatos. <https://github.com/Amandabr922>
+* Rute Nunes: responsável pelo layout e design. <https://github.com/Rute-nunes>
+* Miguel Ângelo responsável pela agenda de contatos e pelo gerenciamento do Github. <https://github.com/Miguel-Angelo012>
 
 ## Objetivos:
 
 ## Visão:
+
+## Valores:
 
 ## 
 <!--
