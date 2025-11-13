@@ -10,7 +10,7 @@
   * responsável pela agenda de contatos. 
 * Rute Nunes: <https://github.com/Rute-nunes>
   * responsável pelo layout e design. 
-* Miguel Ângelo <https://github.com/Miguel-Angelo012>
+* Miguel Ângelo: <https://github.com/Miguel-Angelo012>
   * responsável pela agenda de contatos e pelo gerenciamento do Github. 
 
 ## Objetivos:
