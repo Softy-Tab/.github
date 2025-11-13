@@ -1,5 +1,17 @@
 # Seja bem-vindo a Softy-Tab
 
+## Membros:
+
+* Maxsuel Bruno <https://github.com/MaxsuelBruno>
+* Ana Ellyca <https://github.com/AnnaEllycaVitoria>
+* Amanda Alves <https://github.com/Amandabr922>
+* Rute Nunes <https://github.com/Rute-nunes>
+* Miguel Ângelo <https://github.com/Miguel-Angelo012>
+
+## Objetivos:
+
+## Visão:
+
 ## 
 <!--
 
