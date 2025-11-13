@@ -2,11 +2,16 @@
 
 ## Membros e Funções:
 
-* Maxsuel Bruno: responsável pela estrutura da tela de login. <https://github.com/MaxsuelBruno>
-* Ana Ellyca: responsável pelo jogo de memória e slides para apresentação. <https://github.com/AnnaEllycaVitoria>
-* Amanda Alves: responsável pela agenda de contatos. <https://github.com/Amandabr922>
-* Rute Nunes: responsável pelo layout e design. <https://github.com/Rute-nunes>
-* Miguel Ângelo responsável pela agenda de contatos e pelo gerenciamento do Github. <https://github.com/Miguel-Angelo012>
+* Maxsuel Bruno: <https://github.com/MaxsuelBruno>
+  * responsável pela estrutura da tela de login. 
+* Ana Ellyca: <https://github.com/AnnaEllycaVitoria>
+  * responsável pelo jogo de memória e slides para apresentação. 
+* Amanda Alves: <https://github.com/Amandabr922>
+  * responsável pela agenda de contatos. 
+* Rute Nunes: <https://github.com/Rute-nunes>
+  * responsável pelo layout e design. 
+* Miguel Ângelo <https://github.com/Miguel-Angelo012>
+  * responsável pela agenda de contatos e pelo gerenciamento do Github. 
 
 ## Objetivos:
 
