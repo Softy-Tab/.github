@@ -14,17 +14,12 @@
   * responsável pela agenda de contatos e pelo gerenciamento do Github. 
 
 ## Objetivos:
+Os softwares na atualidade são muito difíceis para se entender no começo, cheios de informações e parâmetros, é fácil de se perder quando não é muito experiente com tecnologia. Por isso, o nosso objetivo é criar softwares intuitivos com design ergonômicos e 'suaves', garantindo que cada interação digital seja eficiente, confortável e acessível.
 
 ## Visão:
+Esperamos que em um futúro próximo, os softwares sejam mais acessíveis para o público em geral, tanto para os com menos experiencia quanto os mais experientes.
 
 ## Valores:
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* Ajudar os necessitados
+* Melhorar os softwares
+* Conseguir passar de semestre
